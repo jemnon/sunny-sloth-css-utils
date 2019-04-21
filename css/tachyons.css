@@ -395,6 +395,12 @@ img { max-width: 100%; }
 .b--washed-green { border-color: #e8fdf5; }
 .b--washed-yellow { border-color: #fffceb; }
 .b--washed-red { border-color: #ffdfdf; }
+/* Sunny Sloth Border Colors */
+.b--ss-dark-teal { border-color: #162936; }
+.b--ss-teal { border-color: #244c53; }
+.b--ss-orange { border-color: #cf7651; }
+.b--ss-light-brown { border-color: #d5a188; }
+.b--ss-cream { border-color: #f4ede6; }
 .b--transparent { border-color: transparent; }
 .b--inherit { border-color: inherit; }
 /*
@@ -1426,6 +1432,27 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .hover-bg-washed-red:hover { background-color: #ffdfdf; }
 .hover-bg-washed-red:focus { background-color: #ffdfdf; }
 .hover-bg-inherit:hover, .hover-bg-inherit:focus { background-color: inherit; }
+/* Sunny Sloth Hover / Focus */
+.hover-ss-dark-teal:hover { color: #162936; }
+.hover-ss-dark-teal:focus { color: #162936; }
+.hover-ss-teal:hover { color: #244c53; }
+.hover-ss-teal:focus { color: #244c53; }
+.hover-ss-orange:hover { color: #cf7651; }
+.hover-ss-orange:focus { color: #cf7651; }
+.hover-ss-light-brown:hover { color: #d5a188; }
+.hover-ss-light-brown:focus { color: #d5a188; }
+.hover-ss-cream:hover { color: #f4ede6; }
+.hover-ss-cream:focus { color: #f4ede6; }
+.hover-bg-ss-dark-teal:hover { background-color: #162936; }
+.hover-bg-ss-dark-teal:focus { background-color: #162936; }
+.hover-bg-ss-teal:hover { background-color: #244c53; }
+.hover-bg-ss-teal:focus { background-color: #244c53; }
+.hover-bg-ss-orange:hover { background-color: #cf7651; }
+.hover-bg-ss-orange:focus { background-color: #cf7651; }
+.hover-bg-ss-light-brown:hover { background-color: #d5a188; }
+.hover-bg-ss-light-brown:focus { background-color: #d5a188; }
+.hover-bg-ss-cream:hover { background-color: #f4ede6; }
+.hover-bg-ss-cream:focus { background-color: #f4ede6; }
 /* Variables */
 /*
    SPACING
