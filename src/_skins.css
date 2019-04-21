@@ -380,17 +380,17 @@
 /* Sunny Sloth Background Colors */
 
 .bg-ss-dark-teal {
-  color: var(--ss-dark-teal);
+  background-color: var(--ss-dark-teal);
 }
 .bg-ss-teal {
-  color: var(--ss-teal);
+  background-color: var(--ss-teal);
 }
 .bg-ss-orange {
-  color: var(--ss-orange);
+  background-color: var(--ss-orange);
 }
 .bg-ss-light-brown {
-  color: var(--ss-light-brown);
+  background-color: var(--ss-light-brown);
 }
 .bg-ss-cream {
-  color: var(--ss-cream);
+  background-color: var(--ss-cream);
 }

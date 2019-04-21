@@ -1199,11 +1199,11 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .bg-washed-red { background-color: #ffdfdf; }
 .bg-inherit { background-color: inherit; }
 /* Sunny Sloth Background Colors */
-.bg-ss-dark-teal { color: #162936; }
-.bg-ss-teal { color: #244c53; }
-.bg-ss-orange { color: #cf7651; }
-.bg-ss-light-brown { color: #d5a188; }
-.bg-ss-cream { color: #f4ede6; }
+.bg-ss-dark-teal { background-color: #162936; }
+.bg-ss-teal { background-color: #244c53; }
+.bg-ss-orange { background-color: #cf7651; }
+.bg-ss-light-brown { background-color: #d5a188; }
+.bg-ss-cream { background-color: #f4ede6; }
 /* 
   
    SKINS:PSEUDO
