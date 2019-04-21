@@ -724,10 +724,12 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .athelas { font-family: athelas, georgia, serif; }
 .georgia { font-family: georgia, serif; }
 .times { font-family: times, serif; }
-.bodoni { font-family: "Bodoni MT", serif; }
-.calisto { font-family: "Calisto MT", serif; }
+.bodoni { font-family: 'Bodoni MT', serif; }
+.calisto { font-family: 'Calisto MT', serif; }
 .garamond { font-family: garamond, serif; }
 .baskerville { font-family: baskerville, serif; }
+.noto-serif-tc { font-family: 'Noto Serif TC', serif; }
+.lato { font-family: 'Lato', sans-serif; }
 /*
 
    FONT STYLE
@@ -1126,6 +1128,12 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .washed-yellow { color: #fffceb; }
 .washed-red { color: #ffdfdf; }
 .color-inherit { color: inherit; }
+/* Sunny Sloth colors */
+.ss-dark-teal { color: #162936; }
+.ss-teal { color: #244c53; }
+.ss-orange { color: #cf7651; }
+.ss-light-brown { color: #d5a188; }
+.ss-cream { color: #f4ede6; }
 /* Background colors */
 .bg-black-90 { background-color: rgba( 0, 0, 0, .9 ); }
 .bg-black-80 { background-color: rgba( 0, 0, 0, .8 ); }
@@ -1184,6 +1192,12 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .bg-washed-yellow { background-color: #fffceb; }
 .bg-washed-red { background-color: #ffdfdf; }
 .bg-inherit { background-color: inherit; }
+/* Sunny Sloth Background Colors */
+.bg-ss-dark-teal { color: #162936; }
+.bg-ss-teal { color: #244c53; }
+.bg-ss-orange { color: #cf7651; }
+.bg-ss-light-brown { color: #d5a188; }
+.bg-ss-cream { color: #f4ede6; }
 /* 
   
    SKINS:PSEUDO
@@ -1968,6 +1982,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
    Colors
 
 */
+:root {/* sunny sloth color vars */ }
 /*
 
   CUSTOM MEDIA QUERIES
